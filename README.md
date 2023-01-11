@@ -11,6 +11,6 @@ Kelas : TI.22.A1
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://drive.google.com/file/d/12LVfRFrNjSpKa9mZWCsJ3X-EEkRCqVFO/view?usp=share_link)
+[Modul Menerapkan MVC Python](https://drive.google.com/file/d/12LVfRFrNjSpKa9mZWCsJ3X-EEkRCqVFO/view?usp=share_link)
 
 Sekian, Terima Kasih
